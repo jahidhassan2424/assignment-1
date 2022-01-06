@@ -96,8 +96,6 @@ body{
     background-size: 250px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    
-    
 }
 .third-section{
     margin-left: 100px;
@@ -106,18 +104,14 @@ body{
 .fourth-section{
     margin-left: 100px;
     margin-bottom: 10px;
-    background: none;
-    
+    background: none;   
 }
 .fourth-section img{
-    width: 100%;
-    
+    width: 100%;    
 }
-
 #third-section-image{
     width: 60%;
-    padding-left: 80px;
-    
+    padding-left: 80px;   
 }
 #third-section-text{
     margin-left: -150px;
@@ -140,8 +134,7 @@ body{
 .last-section-box img{
     width: 60%;
     margin-top: 100px;
-    display: flex;
-    
+    display: flex;    
 }
 .last-section-box-text{
     margin-top: 120px;
