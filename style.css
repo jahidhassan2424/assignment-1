@@ -21,6 +21,9 @@ body{
     font-size: 25px;
     padding-right: 200px;
 }
+#scroll-down-text{
+    margin-top: 80px;
+}
 .orange-color-text{
     color: orange;
 }
@@ -73,7 +76,7 @@ body{
 }
 .my-mission-box-item p{
     font-size: 20px;
-    font-weight: 4s00;
+    font-weight: 400;
 }
 #card-1{
     
@@ -102,13 +105,13 @@ body{
 }
 .fourth-section{
     margin-left: 100px;
-    margin-bottom: 150px;
+    margin-bottom: 10px;
     background: none;
     
 }
 .fourth-section img{
     width: 100%;
-    size: cover;
+    
 }
 
 #third-section-image{
@@ -116,9 +119,47 @@ body{
     padding-left: 80px;
     
 }
+#third-section-text{
+    margin-left: -190px;
+    font-size: 20px;
+}
 #fourth-section-image{
     text-align: right;
     margin-right: 20px;
+}
+.last-section{
+    margin-bottom: 50px;
+    background: none;
+    padding: 200px;
+    margin-top: -150px;
+}
+#last-section-title {
+    text-align: center;
+    font-size: 60px;
+}
+.last-section-box img{
+    width: 60%;
+    margin-top: 100px;
+    display: flex;
+    
+}
+.last-section-box-text{
+    margin-top: 120px;
+    margin-left: -100px;
+}
+.last-section-box-text h1{
+    font-size: 60px;
+    line-height: 28px;
+    font-weight: 900;
+}
+.last-section-box-text p{
+    font-size: 25px;
+}
+.last-section-box{
+    background: none;
+    margin-left: 100px;
+    display: flex;
+    margin-top: -50px; 
 }
 .global-down-section img{
     width: 70%; 
@@ -126,10 +167,7 @@ body{
 .global-down-section-element{
     padding-top: 80px;
 }
-#third-section-text{
-    margin-left: -190px;
-    font-size: 20px;
-}
+
 .global-down-section-text h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
@@ -140,7 +178,7 @@ body{
     
     font-size: 25px;
 }
-.footer{
+footer{
     background-color: #000;
     text-align:center;
     color: white;
