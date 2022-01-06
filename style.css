@@ -1,0 +1,158 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.half-width{
+    width: 50%;
+    
+}
+.header-section{
+    display: flex;
+    
+}
+.header-text{
+    padding: 150px;
+}
+.header-text h1{
+    font-size: 80px;
+    font-family: 'Abril Fatface', cursive;
+}
+.header-text p{
+    font-size: 25px;
+    padding-right: 200px;
+}
+.orange-color-text{
+    color: orange;
+}
+#stay-focoused-text{
+    line-height: 40px;
+    border-left: 5px solid red;
+}
+#text-padding{
+    padding-left: 20px;
+}
+.link-button{
+    
+    text-decoration: none;
+    background-color: rgb(252, 95, 95);
+    padding: 15px 40px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.header-section img{
+    width: 70%;
+}
+.my-mission-section h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+.my-mission-box{
+    display: flex;
+    margin: 0px 200px;
+    
+}
+.my-mission-box img{
+    width: 30%;
+}
+.my-mission-box-item{
+    
+    border-radius: 30px;
+    height: 400px;
+    width: 650px;
+    margin: 0px 10px;
+    padding: 30px;
+    
+}
+.my-mission-box-item h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+.my-mission-box-item p{
+    font-size: 20px;
+    font-weight: 4s00;
+}
+#card-1{
+    
+    background-color: rgb(205, 218, 205);
+}
+#card-2{
+    
+    background-color: rgb(206, 198, 199);
+}
+.card-3{
+    
+    background-color: rgb(221, 221, 176);
+}
+.global-down-section {
+    margin-top: 60px;
+    display: flex;
+    background-size: 250px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.third-section{
+    margin-left: 100px;
+    background-position: left;
+}
+.fourth-section{
+    margin-left: 100px;
+    margin-bottom: 150px;
+    background: none;
+    
+}
+.fourth-section img{
+    width: 100%;
+    size: cover;
+}
+
+#third-section-image{
+    width: 60%;
+    padding-left: 80px;
+    
+}
+#fourth-section-image{
+    text-align: right;
+    margin-right: 20px;
+}
+.global-down-section img{
+    width: 70%; 
+}
+.global-down-section-element{
+    padding-top: 80px;
+}
+#third-section-text{
+    margin-left: -190px;
+    font-size: 20px;
+}
+.global-down-section-text h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.global-down-section-text p{
+    
+    font-size: 25px;
+}
+.footer{
+    background-color: #000;
+    text-align:center;
+    color: white;
+    padding-top: 30px;
+    margin-bottom: -200px;
+    padding-bottom: 20px;
+}
+footer h1{
+    font-size: 45px;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    font-size: 20px;
+}
+
+
